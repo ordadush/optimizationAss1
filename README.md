@@ -60,19 +60,18 @@ Place the insurData.csv file in the designated path defined in main().
 Then run the script: python your_script.py
 
 📁 Output
+
 Updated dataset with one-hot and binary encoding saved as updated_insurData.csv.
 
 Printed experiment results for both versions (with and without categorical features).
 
 🧠 Author Notes
+
 This project showcases how preprocessing and feature selection can significantly affect the performance of a linear regression model. Regularization is also applied to ensure numerical stability during matrix inversion and to prevent overfitting.
 
 📜 License
-This project is for educational purposes and free to use and modify.
 
-yaml
-Copy
-Edit
+This project is for educational purposes and free to use and modify.
 
 
 
