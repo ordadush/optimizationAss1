@@ -54,7 +54,7 @@ The model prints detailed evaluation results per experiment, including:
 ## 🧪 Running the Project
 
 Make sure you have the following dependencies installed:
-```bash
+
 pip install pandas numpy scikit-learn matplotlib
 Place the insurData.csv file in the designated path defined in main().
 Then run the script: python your_script.py
